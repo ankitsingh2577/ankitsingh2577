@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Singh
-- 👀 I’m interested in PHP, Machine learning, Python 
-- 🌱 I’m currently learning Scalable Cloud Programing
+- 👀 I’m interested in Cloud Computing, PHP, Python, Machine learning 
+- 🌱 I’m currently pursuing Masters of Science in Cloud Computing form National College of Ireland
 - 📫 Email: ankitsingh2577@gmail.com
 
 <!---
