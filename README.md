@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ankit Singh
-- 👀 I’m interested in Cloud Computing, PHP, Python, Machine learning 
-- 🌱 I’m currently pursuing Masters of Science in Cloud Computing form National College of Ireland
+- 👀 I’m interested in Cloud Computing, CI/CD, PHP, Python, Grafana, Prometheus, AWS Services, Jenkins, Machine learning
 - 📫 Email: ankitsingh2577@gmail.com
 
 <!---
